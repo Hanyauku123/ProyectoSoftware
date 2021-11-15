@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E5C889D5-C61B-414D-BF83-10843866FDE6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Biblioteca.Presentacion</RootNamespace>
+    <AssemblyName>Biblioteca.Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBook.Designer.cs">
+      <DependentUpon>AddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddVideo.Designer.cs">
+      <DependentUpon>AddVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevolverLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevolverLibro.Designer.cs">
+      <DependentUpon>DevolverLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevolverVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevolverVideo.Designer.cs">
+      <DependentUpon>DevolverVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporte1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporte1.Designer.cs">
+      <DependentUpon>FrmReporte1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List.Designer.cs">
+      <DependentUpon>List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListVideo.Designer.cs">
+      <DependentUpon>ListVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginScreen.Designer.cs">
+      <DependentUpon>LoginScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageBooks.Designer.cs">
+      <DependentUpon>ManageBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageVideos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageVideos.Designer.cs">
+      <DependentUpon>ManageVideos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrestamoLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrestamoLibro.Designer.cs">
+      <DependentUpon>PrestamoLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrestamoVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrestamoVideo.Designer.cs">
+      <DependentUpon>PrestamoVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistrarLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarLibro.Designer.cs">
+      <DependentUpon>RegistrarLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DsSistema.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsSistema.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmPrestamoLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmPrestamoLibro.Designer.cs">
+      <DependentUpon>FrmPrestamoLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmPrestamoVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmPrestamoVideo.Designer.cs">
+      <DependentUpon>FrmPrestamoVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteLibro.Designer.cs">
+      <DependentUpon>FrmReporteLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteVideo.Designer.cs">
+      <DependentUpon>FrmReporteVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search.Designer.cs">
+      <DependentUpon>Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchVideo.Designer.cs">
+      <DependentUpon>searchVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="startAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="startAdmin.Designer.cs">
+      <DependentUpon>startAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="startUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="startUser.Designer.cs">
+      <DependentUpon>startUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateBook.Designer.cs">
+      <DependentUpon>updateBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateVideo.Designer.cs">
+      <DependentUpon>updateVideo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddBook.resx">
+      <DependentUpon>AddBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddVideo.resx">
+      <DependentUpon>AddVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevolverLibro.resx">
+      <DependentUpon>DevolverLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevolverVideo.resx">
+      <DependentUpon>DevolverVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporte1.resx">
+      <DependentUpon>FrmReporte1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List.resx">
+      <DependentUpon>List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListVideo.resx">
+      <DependentUpon>ListVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginScreen.resx">
+      <DependentUpon>LoginScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageBooks.resx">
+      <DependentUpon>ManageBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageVideos.resx">
+      <DependentUpon>ManageVideos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrestamoLibro.resx">
+      <DependentUpon>PrestamoLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrestamoVideo.resx">
+      <DependentUpon>PrestamoVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RegistrarLibro.resx">
+      <DependentUpon>RegistrarLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmPrestamoLibro.resx">
+      <DependentUpon>FrmPrestamoLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmPrestamoVideo.resx">
+      <DependentUpon>FrmPrestamoVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmReporteLibro.resx">
+      <DependentUpon>FrmReporteLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmReporteVideo.resx">
+      <DependentUpon>FrmReporteVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptLibros.rdlc" />
+    <EmbeddedResource Include="Reportes\RptPrestamoLibros.rdlc" />
+    <EmbeddedResource Include="Reportes\RptPrestamoVideos.rdlc" />
+    <EmbeddedResource Include="Reportes\RptVideo.rdlc" />
+    <EmbeddedResource Include="Search.resx">
+      <DependentUpon>Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchVideo.resx">
+      <DependentUpon>searchVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="startAdmin.resx">
+      <DependentUpon>startAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="startUser.resx">
+      <DependentUpon>startUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateBook.resx">
+      <DependentUpon>updateBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateVideo.resx">
+      <DependentUpon>updateVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Reportes\DsSistema.xsc">
+      <DependentUpon>DsSistema.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DsSistema.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsSistema.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DsSistema.xss">
+      <DependentUpon>DsSistema.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca.Negocio\Biblioteca.Negocio.csproj">
+      <Project>{e1745a86-e192-4b2d-988a-d6e171cd4fc3}</Project>
+      <Name>Biblioteca.Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

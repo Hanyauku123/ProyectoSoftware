@@ -1,0 +1,337 @@
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Properties.Resources.resources
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.exe.config
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.exe
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.pdb
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Datos.dll
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.CopyComplete
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.exe
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.pdb
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.startAdmin.resources
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.startUser.resources
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.LoginScreen.resources
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.List.resources
+C:\Users\gabri\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Search.resources
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.exe.config
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.exe
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.pdb
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Datos.dll
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csprojAssemblyReference.cache
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.List.resources
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.LoginScreen.resources
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Properties.Resources.resources
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Search.resources
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.startAdmin.resources
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.startUser.resources
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.GenerateResource.cache
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.CopyComplete
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.exe
+C:\Users\jfran\OneDrive\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.pdb
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.exe.config
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.exe
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.pdb
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Datos.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.AssemblyReference.cache
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.List.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.LoginScreen.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Properties.Resources.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Search.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.startUser.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.GenerateResource.cache
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.CopyComplete
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.exe
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.pdb
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.RegistrarLibro.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.PrestamoLibro.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.PrestamoVideo.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.DevolverLibro.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.DevolverVideo.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.AddBook.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.ManageBooks.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.ManageVideos.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.AddVideo.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.updateBook.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.updateVideo.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.AssemblyReference.cache
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.AddBook.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.AddVideo.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.DevolverLibro.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.DevolverVideo.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.List.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.LoginScreen.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.ManageBooks.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.ManageVideos.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.PrestamoLibro.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.PrestamoVideo.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Properties.Resources.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.RegistrarLibro.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Reportes.FrmPrestamoLibro.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Reportes.FrmPrestamoVideo.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Reportes.FrmReporteLibro.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Reportes.FrmReporteVideo.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Search.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.startAdmin.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.startUser.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.updateBook.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.updateVideo.resources
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.GenerateResource.cache
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\RdlCompile.cache
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\RdlCompile.compiled
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.CoreCompileInputs.cache
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.exe.config
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.exe
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.pdb
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Negocio.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Datos.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Entidades.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\EnvDTE.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\stdole.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.MSXML.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Negocio.pdb
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Datos.pdb
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Entidades.pdb
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.CopyComplete
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.exe
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.pdb
+D:\Documentos Tarea\repos\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.FrmReporte1.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\stdole.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.FrmReporte1.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Reportes.FrmPrestamoLibro.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Reportes.FrmPrestamoVideo.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Reportes.FrmReporteLibro.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Reportes.FrmReporteVideo.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.ListVideo.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.searchVideo.resources
+C:\Users\ADAPTA\Desktop\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Inicio.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.exe.config
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.exe
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Presentacion.pdb
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Negocio.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Datos.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Entidades.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\EnvDTE.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\stdole.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Microsoft.MSXML.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Negocio.pdb
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Datos.pdb
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\Biblioteca.Entidades.pdb
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.AssemblyReference.cache
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.AddBook.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.AddVideo.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.DevolverLibro.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.DevolverVideo.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.FrmReporte1.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.List.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.ListVideo.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.LoginScreen.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.ManageBooks.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.ManageVideos.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.PrestamoLibro.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.PrestamoVideo.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Properties.Resources.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.RegistrarLibro.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Reportes.FrmPrestamoLibro.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Reportes.FrmPrestamoVideo.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Reportes.FrmReporteLibro.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Reportes.FrmReporteVideo.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Search.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.searchVideo.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.Inicio.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.startUser.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.updateBook.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.updateVideo.resources
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.GenerateResource.cache
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\RdlCompile.cache
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\RdlCompile.compiled
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.CoreCompileInputs.cache
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.csproj.CopyComplete
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.exe
+D:\Gaby\Descargas\Materias ciclo 02-2021\Software\proyecto_biblioteca\Biblioteca.Presentacion\Biblioteca.Presentacion\obj\Debug\Biblioteca.Presentacion.pdb
